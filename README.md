@@ -2,9 +2,11 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
+
 #Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
+
 
 #solution
 software engineering: is a branch of computer science used for developing, testing and maintaining software.
@@ -21,7 +23,9 @@ software engineering: is a branch of computer science used for developing, testi
 
 
 
+
 2.Identify and describe at least three key milestones in the evolution of software engineering.
+
 
 #solution
 
@@ -42,7 +46,9 @@ Impact: AI and ML are transforming software engineering by automating repetitive
 
 
 
+
 3.List and briefly explain the phases of the Software Development Life Cycle.
+
 
 #solution
 
@@ -57,7 +63,9 @@ Impact: AI and ML are transforming software engineering by automating repetitive
 5.testing - examine the software for any bugs and glitches
 
 
+
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 #solution
 
@@ -81,7 +89,9 @@ agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 
+
 5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 
 #solution
 
@@ -93,6 +103,7 @@ Software Developer - developing applications,programs and systems using programm
 
  - reporting to the project manager about the progress of the software development.
 
+
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
 
  - create development standards and procedures for the programmers to follow
@@ -102,6 +113,7 @@ Quality Assurance Engineer - collaborate with stakeholders to understand and cla
 - analyse the product to identify bugs and suggest changes to make them more efficient. 
 
 - develop and execute automation scripts using open source tools.
+
 
 Project Manager - assembles and lead the software development team.
 
@@ -115,7 +127,9 @@ Project Manager - assembles and lead the software development team.
 
 
 
+
 6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 
 #solution
 
@@ -151,7 +165,9 @@ importance:
 
 
 
+
 7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 
 #solution
 
@@ -181,9 +197,11 @@ Solution: Use scalable architecture, Emphasize reliability
 
 
 
+
 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-   #solution
+
+    #solution
  
    1.Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 
@@ -205,6 +223,7 @@ Solution: Use scalable architecture, Emphasize reliability
 
 
 1.Define prompt engineering and discuss its importance in interacting with AI models.
+
 
 #solution
 
