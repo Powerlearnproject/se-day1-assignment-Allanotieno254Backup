@@ -16,7 +16,7 @@ software engineering: is a branch of computer science used for developing, testi
 
 3.scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 
- 4.security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering
+4.security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering
 
 
 
@@ -175,15 +175,22 @@ Define prompt engineering and discuss its importance in interacting with AI mode
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
 Importance:
+
 1.Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+
 2.Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+
 3.developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
 
 2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Description of my example image:(full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.)
+
 ![youngwoman](https://github.com/user-attachments/assets/e51115ce-ab46-4048-9e57-36acec1df12e)
 
 1.Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+
 2.Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
+
 3.Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
